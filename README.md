@@ -8,6 +8,7 @@ This project focuses on the implementation of gauges in conjunction with an elev
 <img src="https://github.com/JuanHoKKeR/Ascensor_ControlPID_Galgas/blob/main/Ascensor.jpg?raw=true" alt="Image Elevator" width="300">
 
   We use two optical encoders to capture the steps, each equipped with a 20-step wheel.
+  <img src="https://github.com/JuanHoKKeR/Ascensor_ControlPID_Galgas/blob/main/Encoder.jpg?raw=true" alt="Image Encoder" width="300">
 
 - FLOOR SELECTION WITH STRAIN GAUGES:
   To select the desired floor, strain gauges are employed as buttons. Using analog readings from the ADC ports of the Arduino, along with proper gauge conditioning through voltage dividers, we achieve a high sensitivity for our system.
